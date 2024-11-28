@@ -1,7 +1,7 @@
 # classified-ad-fullstack
 ReactJs, NodeJs and MongoDB based full stack ad publishing website
 ----------------------
-1. Used Redux Store to handle variable such as Dark Mode and Post icon
+1. Used Redux Store to handle state such as Dark Mode and Post icon
 2. Implemented image preview while upload
 3. Data validation is done for each posting
 4. Used formidable and form in nodejs and reactjs respectively
